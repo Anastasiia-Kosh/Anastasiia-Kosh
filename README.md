@@ -1,12 +1,12 @@
-# 👋 Привіт! Я Анастасія Кошуцька
+# 👋 Hi, I'm Anastasiia Koshutska
 
-### Junior Full-Stack розробниця | React | Next.js | Node.js
+### Junior Full-Stack Developer | React | Next.js | Node.js
 
-Створюю сучасні, адаптивні та зручні вебзастосунки за допомогою JavaScript, TypeScript, React, Next.js, Node.js і MongoDB. Маю досвід індивідуальної та командної розробки, роботи з REST API, Git і GitHub, а також виконання ролі Scrum Master. Постійно вдосконалюю свої навички та люблю перетворювати ідеї на зрозумілі й функціональні цифрові продукти.
+I build modern, responsive, and user-friendly web applications using JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB. I have experience with individual and team development, REST API integration, Git and GitHub workflows, as well as working as a Scrum Master. I continuously improve my skills and enjoy turning ideas into clear, functional digital products.
 
 ---
 
-## 🧰 Технології та інструменти
+## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -21,71 +21,71 @@
 
 ---
 
-## 💻 Мої проєкти
+## 💻 Featured Projects
 
 ### [TravelTrucks](https://github.com/Anastasiia-Kosh/travel-trucks)
 
-Вебзастосунок для оренди кемперів. Користувачі можуть переглядати каталог, фільтрувати транспорт, відкривати детальну інформацію про кемпери та надсилати заявки на бронювання.
+A camper rental web application that allows users to browse and filter the catalog, view detailed camper information, and submit booking requests.
 
-**Технології:** Next.js, TypeScript, TanStack Query, Axios, CSS Modules, Formik, Yup, Swiper, React Hot Toast.
+**Tech Stack:** Next.js, TypeScript, TanStack Query, Axios, CSS Modules, Formik, Yup, Swiper, React Hot Toast.
 
 ---
 
 ### [ReGarden](https://github.com/Anastasiia-Kosh/ReGarden)
 
-Комерційний адаптивний лендинг для мобільної гри, що поєднує механіку Match-3 із відновленням та облаштуванням саду. Проєкт створений командою з двох розробників і UI/UX дизайнера. Я працювала як Front-End розробниця та реалізувала секції Features, Reviews, FAQ, How to Play, Gallery і Footer.
+A responsive commercial landing page for a mobile game that combines Match-3 mechanics with garden restoration and customization. The project was developed by a team of two developers and a UI/UX designer. As a Front-End Developer, I implemented the Features, Reviews, FAQ, How to Play, Gallery, and Footer sections.
 
-**Технології:** HTML5, CSS3, JavaScript, Swiper, Vite, Figma.
+**Tech Stack:** HTML5, CSS3, JavaScript, Swiper, Vite, Figma.
 
 ---
 
 ### [NoteHub](https://github.com/Anastasiia-Kosh/NoteHub)
 
-Вебзастосунок для створення та впорядкування особистих нотаток. Підтримує реєстрацію й авторизацію, створення та видалення нотаток, пошук за ключовими словами, фільтрацію за категоріями та керування профілем.
+A web application for creating and organizing personal notes. It supports user registration and authentication, note creation and deletion, keyword search, category filtering, and profile management.
 
-**Технології:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios, CSS Modules, React Paginate, React Hot Toast, use-debounce.
+**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Zustand, Axios, CSS Modules, React Paginate, React Hot Toast, use-debounce.
 
 ---
 
 ### [Mebleria](https://github.com/Anastasiia-Kosh/Mebleria)
 
-Командний адаптивний сайт для вибору та замовлення меблів із фільтрацією та інтеграцією REST API. На проєкті я виконувала ролі Scrum Master і Front-End розробниці: координувала роботу команди та створила адаптивний Header із навігацією і мобільним меню.
+A responsive team project for browsing and ordering furniture, featuring product filtering and REST API integration. I worked as both Scrum Master and Front-End Developer, coordinating the team and building the responsive header, navigation, and mobile menu.
 
-**Технології:** HTML5, CSS3, JavaScript, Vite, Axios, Swagger, Accordion, IMask, iziToast, Pagination, Figma.
+**Tech Stack:** HTML5, CSS3, JavaScript, Vite, Axios, Swagger, Accordion, IMask, iziToast, Pagination, Figma.
 
 ---
 
 ### [EcoTote](https://github.com/Anastasiia-Kosh/EcoTote)
 
-Командний адаптивний сайт для вибору та замовлення екологічних сумок. Я виконувала ролі Scrum Master і Front-End розробниці: координувала команду та реалізувала секцію асортименту з картками товарів, адаптивними зображеннями й оптимізованою графікою.
+A responsive team project for browsing and ordering eco-friendly tote bags. I worked as both Scrum Master and Front-End Developer, coordinating the team and implementing the product assortment section with responsive product cards and optimized images.
 
-**Технології:** HTML5, CSS3, JavaScript, Vite, Figma, Trello.
+**Tech Stack:** HTML5, CSS3, JavaScript, Vite, Figma, Trello.
 
 ---
 
 ### [GreenHarvest](https://github.com/Anastasiia-Kosh/GreenHarvest)
 
-Адаптивний односторінковий сайт сервісу доставки органічних овочів. Містить опис процесу замовлення, каталог овочів, відгуки клієнтів і стилізовану форму замовлення.
+A responsive single-page website for an organic vegetable delivery service. It explains the ordering process, presents the available vegetables, displays customer reviews, and includes a styled order form.
 
-**Технології:** HTML5, CSS3, JavaScript, Vite, Figma.
+**Tech Stack:** HTML5, CSS3, JavaScript, Vite, Figma.
 
 ---
 
 ### [WebStudio](https://github.com/Anastasiia-Kosh/goit-markup-hw-06)
 
-Адаптивний односторінковий сайт вебстудії, який презентує послуги, команду та виконані проєкти. Реалізовано мобільну навігацію, інтерактивні картки, портфоліо, модальне вікно для замовлення послуг і форму підписки.
+A responsive single-page website for a web studio that presents its services, team, and completed projects. It features mobile navigation, interactive cards, a portfolio, a service-order modal, and a subscription form.
 
-**Технології:** HTML5, CSS3, JavaScript, Figma.
-
----
-
-## 🗣️ Мови
-
-- 🇺🇦 Українська — рідна
-- 🇬🇧 Англійська — B1
+**Tech Stack:** HTML5, CSS3, JavaScript, Figma.
 
 ---
 
-## 📫 Контакти
+## 🗣️ Languages
+
+- 🇺🇦 Ukrainian — Native
+- 🇬🇧 English — B1
+
+---
+
+## 📫 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/anastasiia-koshutska/) · [Telegram](https://t.me/Anastasiia_Koshutska) · [Email](mailto:zaporozhetsnastya89@gmail.com)
