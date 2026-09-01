@@ -31,6 +31,14 @@ A camper rental web application that allows users to browse and filter the catal
 
 ---
 
+### [Garmoniq](https://github.com/Anastasiia-Kosh/Garmoniq)
+
+Harmoniq is a full-stack platform for discovering, reading, and publishing articles while connecting readers with content creators. As part of the development team, I built the Authors page and individual author profiles, implemented paginated data loading and caching with TanStack Query, and developed a public user-details API endpoint with MongoDB ObjectId validation. The project follows a monorepo architecture, with Next.js Route Handlers acting as a BFF between the frontend and the Express backend.
+
+**Tech Stack:** Next.js, React, TypeScript, JavaScript, CSS Modules, TanStack Query, Axios, Zustand, Formik, Yup, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary, Swagger, Vercel, Render
+
+---
+
 ### [ReGarden](https://github.com/Anastasiia-Kosh/ReGarden)
 
 A responsive commercial landing page for a mobile game that combines Match-3 mechanics with garden restoration and customization. The project was developed by a team of two developers and a UI/UX designer. As a Front-End Developer, I implemented the Features, Reviews, FAQ, How to Play, Gallery, and Footer sections.
