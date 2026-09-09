@@ -23,8 +23,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 
 ## 💻 Featured Projects
 
-### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book)
-### [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
+### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book) , [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
 
 RecipeBook is a full-stack recipe application built with Next.js and React.
 It is designed as a personal recipe collection with authentication, recipe management, favorites, rich-text recipe editing, search, filtering, pagination, responsive layouts, and SEO support.
