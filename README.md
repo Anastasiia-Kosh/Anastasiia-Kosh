@@ -28,7 +28,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 RecipeBook is a full-stack recipe application built with Next.js and React.
 It is designed as a personal recipe collection with authentication, recipe management, favorites, rich-text recipe editing, search, filtering, pagination, responsive layouts, and SEO support.
 
-**Tech Stack frontend:** Next.js, React, TypeScript, JavaScript, CSS Modules, Axios, Zustand, Formik, Yup, TipTap, React Paginate, React Hot Toast, React Spinners, Vercel
+**Tech Stack frontend:** Next.js, React, TypeScript, CSS Modules, Axios, Zustand, Formik, Yup, TipTap, React Paginate, React Hot Toast, React Spinners, Vercel
 **Tech Stack backend:** Node.js, Express, MongoDB, Mongoose, Joi / Celebrate, JWT, bcrypt, Multer, Nodemailer, Handlebars, sanitize-html, Pino, Cloudinary, Swagger, Render
 
 ---
@@ -37,7 +37,7 @@ It is designed as a personal recipe collection with authentication, recipe manag
 
 A camper rental web application that allows users to browse and filter the catalog, view detailed camper information, and submit booking requests.
 
-**Tech Stack:** Next.js, TypeScript, TanStack Query, Axios, CSS Modules, Formik, Yup, Swiper, React Hot Toast.
+**Tech Stack:** Next.js, React, TypeScript, TanStack Query, Axios, CSS Modules, Formik, Yup, Swiper, React Hot Toast.
 
 ---
 
@@ -45,7 +45,7 @@ A camper rental web application that allows users to browse and filter the catal
 
 Harmoniq is a full-stack platform for discovering, reading, and publishing articles while connecting readers with content creators. As part of the development team, I built the Authors page and individual author profiles, implemented paginated data loading and caching with TanStack Query, and developed a public user-details API endpoint with MongoDB ObjectId validation. The project follows a monorepo architecture, with Next.js Route Handlers acting as a BFF between the frontend and the Express backend.
 
-**Tech Stack:** Next.js, React, TypeScript, JavaScript, CSS Modules, TanStack Query, Axios, Zustand, Formik, Yup, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary, Swagger, Vercel, Render
+**Tech Stack:** Next.js, React, TypeScript, CSS Modules, TanStack Query, Axios, Zustand, Formik, Yup, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary, Swagger, Vercel, Render
 
 ---
 
