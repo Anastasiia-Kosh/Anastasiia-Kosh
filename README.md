@@ -23,6 +23,17 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 
 ## 💻 Featured Projects
 
+### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book)
+### [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
+
+RecipeBook is a full-stack recipe application built with Next.js and React.
+It is designed as a personal recipe collection with authentication, recipe management, favorites, rich-text recipe editing, search, filtering, pagination, responsive layouts, and SEO support.
+
+**Tech Stack frontend:** Next.js, React, TypeScript, JavaScript, CSS Modules, Axios, Zustand, Formik, Yup, TipTap, React Paginate, React Hot Toast, React Spinners, Vercel
+**Tech Stack backend:** Node.js, Express, MongoDB, Mongoose, Joi / Celebrate, JWT, bcrypt, Multer, Nodemailer, Handlebars, sanitize-html, Pino, Cloudinary, Swagger, Render
+
+---
+
 ### [TravelTrucks](https://github.com/Anastasiia-Kosh/travel-trucks)
 
 A camper rental web application that allows users to browse and filter the catalog, view detailed camper information, and submit booking requests.
