@@ -34,6 +34,14 @@ It is designed as a personal recipe collection with authentication, recipe manag
 
 ---
 
+### [LearnLingo](https://github.com/Anastasiia-Kosh/LearnLingo)
+
+LearnLingo is a responsive web application for finding online language tutors. Users can browse teachers, filter them by language, level, and price, view detailed information and reviews, add teachers to favorites, and book a trial lesson.
+
+**Tech Stack:** React, TypeScript, React Router, Firebase, React Hook Form, Yup, CSS Modules, React Hot Toast, Vite.
+
+---
+
 ### [TravelTrucks](https://github.com/Anastasiia-Kosh/travel-trucks)
 
 A camper rental web application that allows users to browse and filter the catalog, view detailed camper information, and submit booking requests.
