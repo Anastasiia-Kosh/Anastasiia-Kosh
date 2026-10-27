@@ -34,6 +34,15 @@ It is designed as a personal recipe collection with authentication, recipe manag
 
 ---
 
+### [PetLove](https://github.com/Anastasiia-Kosh/PetLove)
+
+PetLove is a responsive web application designed to help people find pets, explore adoption listings, and discover useful information about animal care.
+Users can browse available pets, filter and sort listings, save their favorite animals, view detailed information, and manage their profiles.
+
+**Tech Stack:** Next.js (App Router), React, TypeScript, React Redux, React Hook Form, Yup, CSS Modules, React Hot Toast.
+
+---
+
 ### [LearnLingo](https://github.com/Anastasiia-Kosh/LearnLingo)
 
 LearnLingo is a responsive web application for finding online language tutors. Users can browse teachers, filter them by language, level, and price, view detailed information and reviews, add teachers to favorites, and book a trial lesson.
