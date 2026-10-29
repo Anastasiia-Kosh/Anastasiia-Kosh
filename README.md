@@ -59,7 +59,7 @@ A camper rental web application that allows users to browse and filter the catal
 
 ---
 
-### [Garmoniq](https://github.com/Anastasiia-Kosh/Garmoniq)
+### [Harmoniq](https://github.com/Anastasiia-Kosh/Garmoniq)
 
 Harmoniq is a full-stack platform for discovering, reading, and publishing articles while connecting readers with content creators. As part of the development team, I built the Authors page and individual author profiles, implemented paginated data loading and caching with TanStack Query, and developed a public user-details API endpoint with MongoDB ObjectId validation. The project follows a monorepo architecture, with Next.js Route Handlers acting as a BFF between the frontend and the Express backend.
 
