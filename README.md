@@ -6,6 +6,19 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 
 ---
 
+## 💻 Portfolio
+
+### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book) , [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
+
+RecipeBook is a full-stack recipe application built with Next.js and React.
+It is designed as a personal recipe collection with authentication, recipe management, favorites, rich-text recipe editing, search, filtering, pagination, responsive layouts, and SEO support.
+
+**Tech Stack frontend:** Next.js, React, TypeScript, CSS Modules, Axios, Zustand, Formik, Yup, TipTap, React Paginate, React Hot Toast, React Spinners, Vercel
+
+**Tech Stack backend:** Node.js, Express, MongoDB, Mongoose, Joi / Celebrate, JWT, bcrypt, Multer, Nodemailer, Handlebars, sanitize-html, Pino, Cloudinary, Swagger, Render
+
+---
+
 ## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,14 +36,14 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 
 ## 💻 Featured Projects
 
-### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book) , [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
+### [Portfolio](https://github.com/Anastasiia-Kosh/Portfolio)
 
-RecipeBook is a full-stack recipe application built with Next.js and React.
-It is designed as a personal recipe collection with authentication, recipe management, favorites, rich-text recipe editing, search, filtering, pagination, responsive layouts, and SEO support.
+A personal portfolio website showcasing my projects, technical skills, and background as a Fullstack Developer.
+This portfolio presents my development journey, selected projects, and technologies I use to build web applications — from user interfaces to server-side logic.
 
-**Tech Stack frontend:** Next.js, React, TypeScript, CSS Modules, Axios, Zustand, Formik, Yup, TipTap, React Paginate, React Hot Toast, React Spinners, Vercel
+The website is designed with a responsive layout and a custom visual style inspired by cosmic landscapes.
 
-**Tech Stack backend:** Node.js, Express, MongoDB, Mongoose, Joi / Celebrate, JWT, bcrypt, Multer, Nodemailer, Handlebars, sanitize-html, Pino, Cloudinary, Swagger, Render
+**Tech Stack:** React, TypeScript, Vite, React Context API, CSS Modules, Swiper, usehooks-ts.
 
 ---
 
