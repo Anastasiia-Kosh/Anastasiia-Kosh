@@ -4,8 +4,6 @@
 
 I build modern, responsive, and user-friendly web applications using JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB. I have experience with individual and team development, REST API integration, Git and GitHub workflows, as well as working as a Scrum Master. I continuously improve my skills and enjoy turning ideas into clear, functional digital products.
 
-[Portfolio](https://portfolio-mu-khaki-67.vercel.app/)
-
 ---
 
 ## 🧰 Tech Stack
@@ -25,7 +23,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript,
 
 ## 💻 Featured Projects
 
-### [Portfolio](https://github.com/Anastasiia-Kosh/Portfolio)
+### [Anastasiia Koshutska — Portfolio](https://github.com/Anastasiia-Kosh/Portfolio)
 
 A personal portfolio website showcasing my projects, technical skills, and background as a Fullstack Developer.
 This portfolio presents my development journey, selected projects, and technologies I use to build web applications — from user interfaces to server-side logic.
