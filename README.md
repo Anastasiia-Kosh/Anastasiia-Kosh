@@ -4,18 +4,7 @@
 
 I build modern, responsive, and user-friendly web applications using JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB. I have experience with individual and team development, REST API integration, Git and GitHub workflows, as well as working as a Scrum Master. I continuously improve my skills and enjoy turning ideas into clear, functional digital products.
 
----
-
-## 💻 Portfolio
-
-### [Portfolio](https://github.com/Anastasiia-Kosh/Portfolio)
-
-A personal portfolio website showcasing my projects, technical skills, and background as a Fullstack Developer.
-This portfolio presents my development journey, selected projects, and technologies I use to build web applications — from user interfaces to server-side logic.
-
-The website is designed with a responsive layout and a custom visual style inspired by cosmic landscapes.
-
-**Tech Stack:** React, TypeScript, Vite, React Context API, CSS Modules, Swiper, usehooks-ts.
+[Portfolio](https://portfolio-mu-khaki-67.vercel.app/)
 
 ---
 
@@ -35,6 +24,17 @@ The website is designed with a responsive layout and a custom visual style inspi
 ---
 
 ## 💻 Featured Projects
+
+### [Portfolio](https://github.com/Anastasiia-Kosh/Portfolio)
+
+A personal portfolio website showcasing my projects, technical skills, and background as a Fullstack Developer.
+This portfolio presents my development journey, selected projects, and technologies I use to build web applications — from user interfaces to server-side logic.
+
+The website is designed with a responsive layout and a custom visual style inspired by cosmic landscapes.
+
+**Tech Stack:** React, TypeScript, Vite, React Context API, CSS Modules, Swiper, usehooks-ts.
+
+---
 
 ### [RecipeBook - frontend](https://github.com/Anastasiia-Kosh/recipe-book) , [RecipeBook - backend](https://github.com/Anastasiia-Kosh/recipe-book-back)
 
